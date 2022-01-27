@@ -1,3 +1,4 @@
+./model/Host.php
 .DS_Store
 node_modules/
 .sass-cache/
@@ -9,4 +10,3 @@ desktop.ini
 _linux/
 inspection/
 /nbproject/private/
-./model/Host.php

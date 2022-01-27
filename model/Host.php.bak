@@ -3,7 +3,7 @@
 class Host{
     
  public       $host="localhost";
- public       $port=808011;
+ public       $port=8080;
  public       $user="vsyakadu_almus";
  public       $password="TRfL711mMcooL";
  public       $database="vsyakadu_luber";
