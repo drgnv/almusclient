@@ -1,0 +1,455 @@
+[13-Jun-2020 13:47:23 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/index.tpl"  on line 33 "if (d.getElementById(id)) {return;}"  - Unexpected ";", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 33
+[13-Jun-2020 13:47:45 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/index.tpl"  on line 22 "if (d.getElementById(id)) {return;}"  - Unexpected ";", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 22
+[13-Jun-2020 14:50:43 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function var_dumpr() in /home/vsyakadu/almus.semicolondi.com/index.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 52
+[13-Jun-2020 15:07:25 Europe/Sofia] PHP Warning:  require(.vendor/autoload.php): failed to open stream: No such file or directory in /home/vsyakadu/almus.semicolondi.com/index.php on line 3
+[13-Jun-2020 15:07:25 Europe/Sofia] PHP Fatal error:  require(): Failed opening required '.vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vsyakadu/almus.semicolondi.com/index.php on line 3
+[13-Jun-2020 15:12:35 Europe/Sofia] PHP Fatal error:  Uncaught Error: Class 'Smarty' not found in /home/vsyakadu/almus.semicolondi.com/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 17
+[13-Jun-2020 15:14:32 Europe/Sofia] PHP Fatal error:  Uncaught Error: Class 'Smarty' not found in /home/vsyakadu/almus.semicolondi.com/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 17
+[20-Jun-2020 16:07:38 Europe/Sofia] PHP Warning:  Use of undefined constant ‘usermail’ - assumed '‘usermail’' (this will throw an Error in a future version of PHP) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 4
+[20-Jun-2020 16:07:38 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:4) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 4
+[20-Jun-2020 16:07:38 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:4) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 5
+[20-Jun-2020 16:07:54 Europe/Sofia] PHP Warning:  Use of undefined constant ‘usermail’ - assumed '‘usermail’' (this will throw an Error in a future version of PHP) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 4
+[20-Jun-2020 16:07:54 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:4) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 4
+[20-Jun-2020 16:07:54 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:4) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 5
+[20-Jun-2020 16:14:34 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:16:40 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:17:13 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:18:36 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:18:59 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:19:13 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:19:55 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:20:11 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:35:14 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:35:24 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:35:25 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:36:02 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:36:30 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:37:09 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:37:15 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:46:22 Europe/Sofia] PHP Warning:  require_once(autoload.php): failed to open stream: No such file or directory in /home/vsyakadu/almus.semicolondi.com/fbconfig.php on line 6
+[20-Jun-2020 16:46:22 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required 'autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vsyakadu/almus.semicolondi.com/fbconfig.php on line 6
+[20-Jun-2020 16:46:35 Europe/Sofia] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookSession' not found in /home/vsyakadu/almus.semicolondi.com/fbconfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/fbconfig.php on line 20
+[20-Jun-2020 16:47:27 Europe/Sofia] PHP Warning:  require_once(/home/vsyakadu/almus.semicolondi.com./vendor/autoload.php): failed to open stream: No such file or directory in /home/vsyakadu/almus.semicolondi.com/fbconfig.php on line 6
+[20-Jun-2020 16:47:27 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '/home/vsyakadu/almus.semicolondi.com./vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vsyakadu/almus.semicolondi.com/fbconfig.php on line 6
+[20-Jun-2020 16:47:47 Europe/Sofia] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookSession' not found in /home/vsyakadu/almus.semicolondi.com/fbconfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/fbconfig.php on line 20
+[20-Jun-2020 16:48:52 Europe/Sofia] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookSession' not found in /home/vsyakadu/almus.semicolondi.com/fbconfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/fbconfig.php on line 20
+[20-Jun-2020 16:48:53 Europe/Sofia] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookSession' not found in /home/vsyakadu/almus.semicolondi.com/fbconfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/fbconfig.php on line 20
+[20-Jun-2020 16:48:53 Europe/Sofia] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookSession' not found in /home/vsyakadu/almus.semicolondi.com/fbconfig.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/fbconfig.php on line 20
+[20-Jun-2020 16:49:11 Europe/Sofia] PHP Fatal error:  Uncaught Error: Class 'FacebookSession' not found in /home/vsyakadu/almus.semicolondi.com/fbconfig.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/fbconfig.php on line 19
+[20-Jun-2020 16:49:56 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:50:45 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:50:46 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:50:47 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:50:47 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:52:31 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:53:06 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:53:09 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:55:00 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:55:01 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:55:11 Europe/Sofia] PHP Warning:  Use of undefined constant ‘active’ - assumed '‘active’' (this will throw an Error in a future version of PHP) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:55:11 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:55:11 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 5
+[20-Jun-2020 16:55:44 Europe/Sofia] PHP Warning:  Use of undefined constant ‘active’ - assumed '‘active’' (this will throw an Error in a future version of PHP) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:55:44 Europe/Sofia] PHP Warning:  Expiry date cannot have a year greater than 9999 in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:55:44 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 5
+[20-Jun-2020 16:56:03 Europe/Sofia] PHP Warning:  Use of undefined constant ‘active’ - assumed '‘active’' (this will throw an Error in a future version of PHP) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:56:03 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:56:03 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 5
+[20-Jun-2020 16:56:37 Europe/Sofia] PHP Warning:  Use of undefined constant ‘active’ - assumed '‘active’' (this will throw an Error in a future version of PHP) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:56:37 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:56:37 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 5
+[20-Jun-2020 16:56:38 Europe/Sofia] PHP Warning:  Use of undefined constant ‘active’ - assumed '‘active’' (this will throw an Error in a future version of PHP) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:56:38 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:56:38 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 5
+[20-Jun-2020 16:56:38 Europe/Sofia] PHP Warning:  Use of undefined constant ‘active’ - assumed '‘active’' (this will throw an Error in a future version of PHP) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:56:38 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:56:38 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 5
+[20-Jun-2020 16:56:38 Europe/Sofia] PHP Warning:  Use of undefined constant ‘active’ - assumed '‘active’' (this will throw an Error in a future version of PHP) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:56:38 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:56:38 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 5
+[20-Jun-2020 16:56:44 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:57:09 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:57:11 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:57:12 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:57:12 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:57:12 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:57:12 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:57:13 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function getUserByMail() on null in /home/vsyakadu/almus.semicolondi.com/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 23
+[20-Jun-2020 16:57:53 Europe/Sofia] PHP Warning:  Use of undefined constant ‘active’ - assumed '‘active’' (this will throw an Error in a future version of PHP) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:57:53 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:57:53 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 5
+[20-Jun-2020 16:58:35 Europe/Sofia] PHP Warning:  Use of undefined constant ‘active’ - assumed '‘active’' (this will throw an Error in a future version of PHP) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:58:35 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:58:35 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 5
+[20-Jun-2020 16:58:39 Europe/Sofia] PHP Warning:  Use of undefined constant ‘active’ - assumed '‘active’' (this will throw an Error in a future version of PHP) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:58:39 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 3
+[20-Jun-2020 16:58:39 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/logout.php:3) in /home/vsyakadu/almus.semicolondi.com/logout.php on line 5
+[20-Jun-2020 17:29:58 Europe/Sofia] PHP Warning:  require(./vendor/autoload.php): failed to open stream: No such file or directory in /home/vsyakadu/almus.semicolondi.com/index.php on line 4
+[20-Jun-2020 17:29:58 Europe/Sofia] PHP Fatal error:  require(): Failed opening required './vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vsyakadu/almus.semicolondi.com/index.php on line 4
+[03-Sep-2020 16:16:36 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('office@semicolo...', '9308253229')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[03-Sep-2020 16:16:48 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('office@semicolo...', '9308253229')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[03-Sep-2020 16:17:38 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[05-Sep-2020 00:07:40 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'регистрирай' (T_STRING) in /home/vsyakadu/almus.semicolondi.com/index.php on line 49
+[05-Sep-2020 21:09:18 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('borisovmario26@...', 'sexbok69slqto')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[05-Sep-2020 21:09:23 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('borisovmario26@...', 'sexbok69slqto')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[05-Sep-2020 21:09:27 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('borisovmario26@...', 'sexbok69slqto')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[05-Sep-2020 21:11:05 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('borisovmario26@...', 'sexbok69slqto')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[07-Sep-2020 13:10:00 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('testvam123@abv....', 'World335')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[07-Sep-2020 13:10:09 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('testvam123@abv....', 'World335')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[07-Sep-2020 13:10:21 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('testvam123@abv....', 'World335')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[11-Sep-2020 16:26:18 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('office@semicolo...', '9308253229')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[11-Sep-2020 16:26:25 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('office@semicolo...', '9308253229')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[11-Sep-2020 16:28:01 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[11-Sep-2020 16:28:20 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[11-Sep-2020 16:28:23 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[11-Sep-2020 17:19:28 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[11-Sep-2020 17:39:14 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[13-Sep-2020 07:21:12 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[13-Sep-2020 07:21:17 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[13-Sep-2020 07:21:19 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[13-Sep-2020 07:21:28 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[13-Sep-2020 07:21:30 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[13-Sep-2020 07:21:52 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[13-Sep-2020 07:21:54 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[13-Sep-2020 07:23:24 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[13-Sep-2020 07:27:41 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[13-Sep-2020 07:28:38 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[14-Sep-2020 20:56:14 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[14-Sep-2020 20:56:18 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[14-Sep-2020 20:56:28 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[14-Sep-2020 20:57:08 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[14-Sep-2020 20:59:41 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[14-Sep-2020 21:00:28 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[14-Sep-2020 21:03:01 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('testvam123@abv....', 'World335')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[14-Sep-2020 21:03:45 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[14-Sep-2020 21:04:12 Europe/Sofia] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Basic::logIn(), 2 passed in /home/vsyakadu/almus.semicolondi.com/index.php on line 11 and exactly 3 expected in /home/vsyakadu/almus.semicolondi.com/model/Basic.php:6
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/index.php(11): Basic->logIn('testvam123@abv....', 'World335')
+#1 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 6
+[14-Sep-2020 21:04:51 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[14-Sep-2020 21:05:07 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[14-Sep-2020 21:05:09 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[14-Sep-2020 21:06:32 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[14-Sep-2020 21:06:39 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:03:13 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:03:16 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:03:18 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:03:25 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:03:31 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:03:48 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:04:00 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:04:12 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:04:13 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:04:15 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:04:31 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:04:36 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:04:48 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:05:14 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:05:29 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[16-Sep-2020 21:05:38 Europe/Sofia] PHP Warning:  setcookie() expects parameter 2 to be string, array given in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 14
+[31-Jan-2021 18:39:37 Europe/Sofia] PHP Fatal error:  Cannot redeclare Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/model/Basic.php on line 198
+[02-Feb-2021 17:29:40 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[02-Feb-2021 17:29:40 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[02-Feb-2021 17:30:42 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[02-Feb-2021 17:30:42 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[02-Feb-2021 17:31:04 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[02-Feb-2021 17:31:04 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[02-Feb-2021 17:31:22 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[02-Feb-2021 17:31:22 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[02-Feb-2021 17:43:57 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[02-Feb-2021 17:43:57 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[02-Feb-2021 17:44:06 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[02-Feb-2021 17:44:06 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[02-Feb-2021 21:47:29 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[02-Feb-2021 21:47:29 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[02-Feb-2021 21:47:38 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[02-Feb-2021 21:47:38 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[02-Feb-2021 21:48:02 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[02-Feb-2021 21:48:02 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[08-Feb-2021 21:39:06 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[08-Feb-2021 21:39:06 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[08-Feb-2021 21:39:28 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[08-Feb-2021 21:39:28 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[08-Feb-2021 21:39:48 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[08-Feb-2021 21:39:48 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[08-Feb-2021 21:40:05 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[08-Feb-2021 21:40:05 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[09-Feb-2021 21:23:10 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[09-Feb-2021 21:23:10 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[09-Feb-2021 21:23:25 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[09-Feb-2021 21:23:25 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[09-Feb-2021 21:23:41 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[09-Feb-2021 21:23:41 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[09-Feb-2021 21:24:14 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[09-Feb-2021 21:24:14 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[09-Feb-2021 21:24:38 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[09-Feb-2021 21:24:38 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[09-Feb-2021 21:25:04 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[09-Feb-2021 21:25:04 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[09-Feb-2021 21:25:16 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[09-Feb-2021 21:25:16 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[09-Feb-2021 21:27:47 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[09-Feb-2021 21:27:47 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[14-Feb-2021 16:20:57 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[14-Feb-2021 16:20:57 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[14-Feb-2021 16:21:13 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[14-Feb-2021 16:21:13 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[14-Feb-2021 16:21:36 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[14-Feb-2021 16:21:36 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[14-Feb-2021 16:21:46 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[14-Feb-2021 16:21:46 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[14-Feb-2021 16:22:00 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[14-Feb-2021 16:22:00 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[14-Feb-2021 16:22:11 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[14-Feb-2021 16:22:11 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[14-Feb-2021 16:23:37 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[14-Feb-2021 16:23:37 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[15-Feb-2021 13:10:06 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[15-Feb-2021 13:10:06 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[21-Feb-2021 14:29:50 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[21-Feb-2021 14:29:50 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[21-Feb-2021 14:30:06 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[21-Feb-2021 14:30:06 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[21-Feb-2021 14:30:17 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[21-Feb-2021 14:30:17 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[21-Feb-2021 14:30:41 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[21-Feb-2021 14:30:41 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[21-Feb-2021 14:31:13 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[21-Feb-2021 14:31:13 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[21-Feb-2021 14:31:34 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[21-Feb-2021 14:31:34 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[21-Feb-2021 14:31:39 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[21-Feb-2021 14:31:39 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[21-Feb-2021 14:31:43 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[21-Feb-2021 14:31:43 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[24-Feb-2021 13:12:14 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[24-Feb-2021 13:12:14 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[18-Mar-2021 20:15:21 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[18-Mar-2021 20:15:21 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[20-Mar-2021 13:29:49 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[20-Mar-2021 13:29:49 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[20-Mar-2021 13:30:33 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[20-Mar-2021 13:30:33 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[20-Mar-2021 13:30:59 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[20-Mar-2021 13:30:59 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[20-Mar-2021 13:31:11 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[20-Mar-2021 13:31:11 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[21-Mar-2021 16:27:49 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[21-Mar-2021 16:27:49 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[21-Mar-2021 16:28:33 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[21-Mar-2021 16:28:33 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[21-Mar-2021 16:28:46 Europe/Sofia] PHP Warning:  mysqli_query(): Empty query in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 29
+[21-Mar-2021 16:28:46 Europe/Sofia] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vsyakadu/almus.semicolondi.com/model/Host.php on line 30
+[03-Dec-2021 21:58:49 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/vsyakadu/almus.semicolondi.com/sms.php on line 8
+[03-Dec-2021 22:07:27 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/vsyakadu/almus.semicolondi.com/sms.php on line 8
+[10-Dec-2021 10:01:31 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'doctors' (T_STRING), expecting ')' in /home/vsyakadu/almus.semicolondi.com/register.php on line 99
+[04-Jan-2022 22:20:23 Europe/Sofia] PHP Warning:  get_browser(): browscap ini directive not set in /home/vsyakadu/almus.semicolondi.com/index.php on line 12
+[04-Jan-2022 22:20:23 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/index.php:12) in /home/vsyakadu/almus.semicolondi.com/index.php on line 21
+[04-Jan-2022 22:20:23 Europe/Sofia] PHP Warning:  get_browser(): browscap ini directive not set in /home/vsyakadu/almus.semicolondi.com/index.php on line 12
+[04-Jan-2022 22:20:23 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/index.php:12) in /home/vsyakadu/almus.semicolondi.com/index.php on line 21
+[04-Jan-2022 22:22:24 Europe/Sofia] PHP Warning:  get_browser(): browscap ini directive not set in /home/vsyakadu/almus.semicolondi.com/index.php on line 12
+[04-Jan-2022 22:22:24 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/index.php:12) in /home/vsyakadu/almus.semicolondi.com/index.php on line 21
+[04-Jan-2022 22:25:02 Europe/Sofia] PHP Warning:  get_browser(): browscap ini directive not set in /home/vsyakadu/almus.semicolondi.com/index.php on line 12
+[04-Jan-2022 22:25:02 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/index.php:12) in /home/vsyakadu/almus.semicolondi.com/index.php on line 21
+[04-Jan-2022 22:25:22 Europe/Sofia] PHP Warning:  get_browser(): browscap ini directive not set in /home/vsyakadu/almus.semicolondi.com/index.php on line 12
+[04-Jan-2022 22:25:22 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/index.php:12) in /home/vsyakadu/almus.semicolondi.com/index.php on line 21
+[04-Jan-2022 22:25:36 Europe/Sofia] PHP Warning:  get_browser(): browscap ini directive not set in /home/vsyakadu/almus.semicolondi.com/index.php on line 12
+[04-Jan-2022 22:25:36 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/index.php:12) in /home/vsyakadu/almus.semicolondi.com/index.php on line 21
+[04-Jan-2022 22:25:56 Europe/Sofia] PHP Warning:  get_browser(): browscap ini directive not set in /home/vsyakadu/almus.semicolondi.com/index.php on line 12
+[04-Jan-2022 22:25:56 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/index.php:12) in /home/vsyakadu/almus.semicolondi.com/index.php on line 21
+[04-Jan-2022 22:25:56 Europe/Sofia] PHP Warning:  get_browser(): browscap ini directive not set in /home/vsyakadu/almus.semicolondi.com/index.php on line 12
+[04-Jan-2022 22:25:56 Europe/Sofia] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vsyakadu/almus.semicolondi.com/index.php:12) in /home/vsyakadu/almus.semicolondi.com/index.php on line 21
+[04-Jan-2022 22:27:30 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::get_browser() in /home/vsyakadu/almus.semicolondi.com/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 12
+[04-Jan-2022 22:28:18 Europe/Sofia] PHP Warning:  get_browser(): browscap ini directive not set in /home/vsyakadu/almus.semicolondi.com/index.php on line 25
+[04-Jan-2022 22:28:19 Europe/Sofia] PHP Warning:  get_browser(): browscap ini directive not set in /home/vsyakadu/almus.semicolondi.com/index.php on line 25
+[04-Jan-2022 22:28:29 Europe/Sofia] PHP Warning:  get_browser(): browscap ini directive not set in /home/vsyakadu/almus.semicolondi.com/index.php on line 25
+[04-Jan-2022 22:28:56 Europe/Sofia] PHP Warning:  get_browser(): browscap ini directive not set in /home/vsyakadu/almus.semicolondi.com/index.php on line 25
+[04-Jan-2022 22:29:17 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function E_WARNING() in /home/vsyakadu/almus.semicolondi.com/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/index.php on line 2
+[17-Jan-2022 09:42:32 Europe/Sofia] PHP Warning:  file_put_contents(upload/61e51de892dc7.png): failed to open stream: No such file or directory in /home/vsyakadu/almus.semicolondi.com/bolnica.php on line 14
+[17-Jan-2022 12:16:10 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function getBolnicaOrders() in /home/vsyakadu/almus.semicolondi.com/bolnica.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/bolnica.php on line 32

@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+.sass-cache/
+.idea/
+.nbproject/
+desktop.ini
+.settings/
+*.tpl.php
+_linux/
+inspection/
+/nbproject/private/

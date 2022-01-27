@@ -1,0 +1,742 @@
+[20-Jun-2020 17:02:52 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 20
+[20-Jun-2020 17:02:53 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 20
+[20-Jun-2020 17:02:53 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 20
+[20-Jun-2020 17:02:54 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 20
+[20-Jun-2020 17:02:54 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 20
+[20-Jun-2020 17:02:54 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 20
+[20-Jun-2020 17:02:54 Europe/Sofia] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 20
+[20-Jun-2020 17:05:57 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function vardump() in /home/vsyakadu/almus.semicolondi.com/controller/home.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 20
+[21-Jun-2020 14:29:31 Europe/Sofia] PHP Parse error:  syntax error, unexpected '$Basic' (T_VARIABLE) in /home/vsyakadu/almus.semicolondi.com/controller/get_taxi.php on line 24
+[05-Jul-2020 13:53:06 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 16 ".button1 {border-radius: 2px;}"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 16
+[05-Jul-2020 13:53:12 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 17 ".button1 {border-radius: 2px;}"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 17
+[05-Jul-2020 13:53:16 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 18 ".button1 {border-radius: 2px;}"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 18
+[23-Aug-2020 21:01:37 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:01:43 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:01:49 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:01:55 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:02:06 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:02:11 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:02:17 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:02:23 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:02:23 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:03:55 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:00 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:06 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:11 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:17 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:22 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:28 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:33 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:38 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:38 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:43 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:44 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:49 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:49 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:54 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:54 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:04:59 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:05:00 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 79
+[23-Aug-2020 21:10:12 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 16
+[23-Aug-2020 21:14:32 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getDriversLinks() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 16
+[31-Aug-2020 22:59:00 Europe/Sofia] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/vsyakadu/almus.semicolondi.com/controller/home.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 22
+[31-Aug-2020 22:59:05 Europe/Sofia] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/vsyakadu/almus.semicolondi.com/controller/home.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 22
+[31-Aug-2020 23:04:00 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function is_num() in /home/vsyakadu/almus.semicolondi.com/controller/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 26
+[31-Aug-2020 23:04:29 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function is_num() in /home/vsyakadu/almus.semicolondi.com/controller/home.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 26
+[31-Aug-2020 23:30:24 Europe/Sofia] PHP Parse error:  syntax error, unexpected end of file in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 69
+[04-Sep-2020 11:47:10 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function getUserById() in /home/vsyakadu/almus.semicolondi.com/controller/home.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 70
+[12-Nov-2020 19:25:02 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[12-Nov-2020 19:26:17 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[12-Nov-2020 19:26:26 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[12-Nov-2020 19:27:57 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[12-Nov-2020 19:28:10 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[12-Nov-2020 19:31:01 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[16-Nov-2020 09:49:50 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[16-Nov-2020 21:28:48 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[16-Nov-2020 21:28:51 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[16-Nov-2020 21:28:54 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[16-Nov-2020 21:28:59 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[16-Nov-2020 21:29:02 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[19-Nov-2020 22:22:56 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[21-Nov-2020 13:39:17 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[21-Nov-2020 13:39:30 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[21-Nov-2020 13:39:36 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[21-Nov-2020 13:39:55 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[21-Nov-2020 13:40:17 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[21-Nov-2020 13:47:46 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[21-Nov-2020 13:47:54 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[22-Nov-2020 11:42:02 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[24-Nov-2020 08:35:55 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[24-Nov-2020 08:46:13 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[24-Nov-2020 10:47:49 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[24-Nov-2020 10:47:56 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[24-Nov-2020 10:48:22 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[25-Nov-2020 08:32:41 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[26-Nov-2020 08:38:54 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[26-Nov-2020 08:38:59 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[26-Nov-2020 08:39:07 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[27-Nov-2020 01:27:38 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[28-Nov-2020 19:26:57 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[28-Nov-2020 19:27:24 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[30-Nov-2020 20:59:18 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[30-Nov-2020 20:59:32 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[01-Dec-2020 07:19:57 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[05-Dec-2020 13:23:52 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[05-Dec-2020 13:24:05 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[05-Dec-2020 13:24:16 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[05-Dec-2020 13:24:51 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[18-Dec-2020 15:07:46 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[20-Dec-2020 01:57:08 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[20-Dec-2020 01:57:12 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[20-Dec-2020 01:57:18 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[20-Dec-2020 01:58:14 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[20-Dec-2020 01:59:59 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[01-Jan-2021 01:42:38 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[01-Jan-2021 01:42:43 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[01-Jan-2021 01:43:03 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[01-Jan-2021 01:43:06 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[01-Jan-2021 01:43:12 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[01-Jan-2021 01:47:32 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[01-Jan-2021 01:47:37 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[01-Jan-2021 01:47:50 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[01-Jan-2021 01:48:26 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[04-Jan-2021 08:07:36 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[08-Jan-2021 07:33:07 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[09-Jan-2021 15:24:27 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[09-Jan-2021 15:24:31 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[09-Jan-2021 15:24:38 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[11-Jan-2021 12:02:40 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[30-Jan-2021 18:39:47 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[30-Jan-2021 18:39:50 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[30-Jan-2021 18:39:55 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined method Basic::getOrdersByPhone() in /home/vsyakadu/almus.semicolondi.com/controller/guest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/guest.php on line 16
+[31-Jan-2021 18:40:31 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 316 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 316
+[31-Jan-2021 18:40:37 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 316 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 316
+[31-Jan-2021 18:40:42 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 316 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 316
+[31-Jan-2021 18:40:47 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 316 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 316
+[31-Jan-2021 18:40:52 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 316 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 316
+[31-Jan-2021 18:40:58 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 316 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 316
+[31-Jan-2021 18:41:03 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:41:08 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:41:13 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:41:19 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:41:24 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:41:29 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:41:34 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:41:40 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:41:45 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:41:50 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:41:55 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:41:59 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:42:04 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:42:10 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:42:15 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:42:20 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:42:25 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:42:31 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:42:37 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:42:48 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:43:05 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:43:21 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:43:48 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:43:55 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([".$driver['lat'].",".$driver['lon']."], {icon: greenIcon}).addTo(map).bindPopup(\"<b>".$driver['driver_names']."</b><br />".$driver['lat']." ".$driver['lon']."\").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:43:59 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([{$dlink.lat},{$dlink.lat}], {icon: greenIcon}).addTo(map).bindPopup("<b>{$dlink.driver_names}).openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:44:05 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([{$dlink.lat},{$dlink.lat}], {icon: greenIcon}).addTo(map).bindPopup("<b>{$dlink.driver_names}).openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:44:10 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([{$dlink.lat},{$dlink.lat}], {icon: greenIcon}).addTo(map).bindPopup("<b>{$dlink.driver_names}).openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:44:16 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([{$dlink.lat},{$dlink.lat}], {icon: greenIcon}).addTo(map).bindPopup("<b>{$dlink.driver_names}).openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:44:21 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([{$dlink.lat},{$dlink.lat}], {icon: greenIcon}).addTo(map).bindPopup("<b>{$dlink.driver_names}).openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:44:25 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([ {$dlink.lat} , {$dlink.lat} ], {icon: greenIcon}).addTo(map).bindPopup("<b>{$dlink.driver_names}).openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:44:30 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([ {$dlink.lat} , {$dlink.lat} ], {icon: greenIcon}).addTo(map).bindPopup("<b>{$dlink.driver_names}).openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:44:35 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([ {$dlink.lat} , {$dlink.lat} ], {icon: greenIcon}).addTo(map).bindPopup("<b>{$dlink.driver_names}).openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:44:40 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([ {$dlink.lat} , {$dlink.lat} ], {icon: greenIcon}).addTo(map).bindPopup("<b>{$dlink.driver_names}).openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[31-Jan-2021 18:44:46 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 346 "var marker = L.marker([ {$dlink.lat} , {$dlink.lat} ], {icon: greenIcon}).addTo(map).bindPopup("<b>{$dlink.driver_names}).openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 346
+[02-Feb-2021 09:59:20 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function logIn() on null in /home/vsyakadu/almus.semicolondi.com/controller/home.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 7
+[02-Feb-2021 10:00:24 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function logIn() on null in /home/vsyakadu/almus.semicolondi.com/controller/home.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 7
+[02-Feb-2021 13:30:57 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function logIn() on null in /home/vsyakadu/almus.semicolondi.com/controller/home.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 11
+[02-Feb-2021 13:31:35 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function logIn() on null in /home/vsyakadu/almus.semicolondi.com/controller/home.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 11
+[02-Feb-2021 15:28:24 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to a member function logIn() on null in /home/vsyakadu/almus.semicolondi.com/controller/home.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 11
+[03-Feb-2021 11:49:32 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 253 "from {left: 0px;}"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 253
+[05-Feb-2021 15:06:26 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 185 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 185
+[05-Feb-2021 15:06:55 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 198 "L.tileLayer('https:// { s } .tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 'z' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 198
+[05-Feb-2021 15:07:46 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 198 "L.tileLayer('https:// { s } .tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 'z' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 198
+[08-Apr-2021 21:19:58 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{if $os.status == 1}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:20:00 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{if $os.status == 1}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:20:02 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{if $os.status == 1}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:20:02 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{if $os.status == 1}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:21:37 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{if $os.status == 1}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:21:40 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{if $os.status == 1}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:21:43 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{if $os.status == 1}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:21:45 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{if $os.status == 1}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:21:48 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{if $os.status == 1}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:21:50 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:21:52 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:21:54 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:21:56 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:21:56 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:21:58 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:22:00 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:22:01 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:22:24 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:22:27 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:22:29 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:22:32 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:22:34 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 252 "{if $os.status == 2}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[08-Apr-2021 21:22:37 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{/if}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:22:41 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{/if}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:22:44 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{/if}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:22:47 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{/if}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:22:49 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{/if}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:22:52 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{/if}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:22:55 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{/if}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:22:57 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{/if}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:23:00 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{/if}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 21:23:02 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 251 "{/if}" unclosed '{else}' tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[08-Apr-2021 23:31:01 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 217 "if (rowHeight > biggestRow) {biggestRow=rowHeight;}"  - Unexpected "=", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 217
+[02-May-2021 18:03:55 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 227 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 227
+[02-May-2021 18:05:17 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 227 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 227
+[02-May-2021 18:06:30 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 227 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 227
+[02-May-2021 18:08:12 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 227 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 227
+[02-May-2021 18:08:39 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 227 "L.tileLayer('https://{ s }.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 'z' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 227
+[02-May-2021 18:08:54 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 252 "var marker = L.marker([{$driver.lat}, {$driver.lon}], {icon: greenIcon}).addTo(map).bindPopup("{$driver.names}").openPopup()"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[02-May-2021 18:09:31 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 252 "var marker = L.marker([{$driver.lat}, {$driver.lon}], {icon: greenIcon}).addTo(map).bindPopup("{$driver.names}").openPopup()"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[02-May-2021 18:10:09 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 252 "var marker = L.marker([ {$driver.lat} , {$driver.lon} ], {icon: greenIcon}).addTo(map).bindPopup(" {$driver.names} ").openPopup()"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[02-May-2021 18:10:31 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 252 "var marker = L.marker([ {$driver.lat} , {$driver.lon} ], {icon: greenIcon}).addTo(map).bindPopup( {$driver.names} ).openPopup()"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 252
+[02-May-2021 18:11:45 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 251 "var marker = L.marker([ 43.8298433, 23.2247669], {icon: greenIcon}).addTo(map).bindPopup("<b>Пламен</b><br /> 43.8298433  23.2247669").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 251
+[03-May-2021 14:25:20 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 208 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 208
+[03-May-2021 14:26:55 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 208 "L.tileLayer('https://{s}.tile.openstreetmap.org/ { z } / { x } / { y } .png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 208
+[03-May-2021 14:27:16 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 208 "L.tileLayer('https://{s}.tile.openstreetmap.org/ { z } / { x } / { y } .png',  {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 208
+[03-May-2021 14:27:17 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 208 "L.tileLayer('https://{s}.tile.openstreetmap.org/ { z } / { x } / { y } .png',  {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 208
+[03-May-2021 14:27:18 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 208 "L.tileLayer('https://{s}.tile.openstreetmap.org/ { z } / { x } / { y } .png',  {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 208
+[03-May-2021 14:27:18 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 208 "L.tileLayer('https://{s}.tile.openstreetmap.org/ { z } / { x } / { y } .png',  {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 208
+[03-May-2021 14:27:18 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 208 "L.tileLayer('https://{s}.tile.openstreetmap.org/ { z } / { x } / { y } .png',  {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 208
+[03-May-2021 14:27:54 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 208 "L.tileLayer('https://{s}.tile.openstreetmap.org/ { z } / { x } / { y } .png',  {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 208
+[03-May-2021 14:28:04 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 228 "var marker = L.marker([ 43.8262162, 23.2133597], {icon: greenIcon}).addTo(map).bindPopup("<b>Пламен</b><br /> 43.8262162  23.2133597").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 228
+[03-May-2021 14:28:34 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 243 "var marker = L.marker([ 43.8274639, 23.2398082], {icon: greenIcon}).addTo(map).bindPopup("<b>Даниел</b><br /> 43.8274639  23.2398082").openPopup();"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 243
+[03-May-2021 14:28:57 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 280 ".topnav a:not(:first-child) {display: none;}"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 280
+[03-May-2021 14:29:10 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 288 ".topnav.responsive {position: relative;}"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 288
+[03-May-2021 14:38:25 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 53 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 53
+[03-May-2021 14:39:12 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 124 ".topnav a:not(:first-child) {display: none;}"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 124
+[22-May-2021 12:37:26 Europe/Sofia] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 113
+[23-Nov-2021 10:07:53 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 178 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 178
+[23-Nov-2021 10:08:27 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 470 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 470
+[23-Nov-2021 10:14:51 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home.tpl"  on line 178 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 178
+[24-Nov-2021 22:14:21 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 36 "L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {" unknown tag 'id' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 36
+[24-Nov-2021 22:14:58 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 32 "{literate}" unknown tag 'literate' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 32
+[25-Nov-2021 11:03:23 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 152 "var mapTiles = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 152
+[30-Nov-2021 17:06:49 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 19 "L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {" unknown tag 'id' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 19
+[30-Nov-2021 17:07:10 Europe/Sofia] PHP Fatal error:  Uncaught Exception: Unexpected input at line29: 
+ in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatelexer.php:898
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatelexer.php(255): Smarty_Internal_Templatelexer->yylex4()
+#1 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_smartytemplatecompiler.php(113): Smarty_Internal_Templatelexer->yylex()
+#2 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php(423): Smarty_Internal_SmartyTemplateCompiler->doCompile('<DOCTYPE html>\n...', true)
+#3 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php(349): Smarty_Internal_TemplateCompilerBase->compileTemplateSource(Object(Smarty_Internal_Template), false, NULL)
+#4 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_template_compiled.php(184): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#5 /home/vsyakad in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatelexer.php on line 898
+[30-Nov-2021 17:10:48 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 28 "var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {" unknown tag 'id' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 28
+[01-Dec-2021 07:37:37 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 92 "" unclosed {else} tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 92
+[01-Dec-2021 08:07:50 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 39 "marker.bindPopup("{if strlen($lat)<3}<img src=\"https://i.gifer.com/7jM3.gif\" width="100px" heigh="100px"><b>Търсим местоположението ви...</b>{else}<a style=\"text-decoration:none;color:white;background-color:#1f78ff;padding:10px;margin:-20px; display:inline-block;border-radius:5px;font-size:19px\" href=\"./get_taxi.php?street={/literal}{$location}{literal}&number=0&post_code=0\"><img src=\"https://thumbs.gfycat.com/InexperiencedGlossyAsiaticgreaterfreshwaterclam-max-1mb.gif\" width=\"80px\" heigh=\"80px\" align=\"left\">{/literal}{$location}{literal}</a>{/literal}{/if}{literal}").openPopup();" unexpected closing tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 39
+[01-Dec-2021 08:32:48 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 43 "attribution: '{/literal}{foreach from=$fav_pl item=$place}   <a href="./get_taxi.php?street={$place.street}&number={$place.street_number}&post_code={$place.post_code}">{$place.street}</a>{foreach}{literal}'," missing 'from' attribute <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 43
+[01-Dec-2021 08:33:28 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 43 "attribution: '{/literal}{foreach from=$fav_pl item=$place}   <a href=\"./get_taxi.php?street={$place.street}&number={$place.street_number}&post_code={$place.post_code}\">{$place.street}</a>{foreach}{literal}'," missing 'from' attribute <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 43
+[01-Dec-2021 08:34:41 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 43 "attribution: '{/literal}{foreach from=$fav_pl item=$place}{literal}   <a href=\"./get_taxi.php?street={/literal}{$place.street}{literal}&number=0&post_code=0\">{/literal}{$place.street}</a>{foreach}{literal}'," missing 'from' attribute <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 43
+[01-Dec-2021 08:56:03 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 44 "id: 'mapbox/streets-v11',"  - Unexpected "',
+		id: '", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 44
+[01-Dec-2021 08:58:49 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 44 "id: 'mapbox/streets-v11',"  - Unexpected "',
+		id: '", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 44
+[01-Dec-2021 18:00:33 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 47 ".topnav a:not(:first-child) {display: none;}"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 47
+[03-Dec-2021 16:24:48 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 156 "{if}" missing if condition <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 156
+[13-Dec-2021 12:24:21 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 60 "onload="getLocation(); setTimeout(function() { if(xx != 5){document.frm1.submit() }} , 2000)""  - Unexpected ".", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 60
+[17-Dec-2021 10:44:36 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/newpasslost.tpl"  on line 51 "{else}" unexpected closing tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 51
+[17-Dec-2021 11:15:49 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/newpasslost.tpl"  on line 46 "{else}" unexpected closing tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 46
+[17-Dec-2021 11:16:44 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/newpasslost.tpl"  on line 66 "{/if}" unexpected closing tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 66
+[17-Dec-2021 15:46:20 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function random() in /home/vsyakadu/almus.semicolondi.com/controller/home.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/home.php on line 32
+[17-Dec-2021 15:57:00 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 172 "" unclosed {if} tag <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 172
+[18-Dec-2021 14:26:44 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 80 "Търсим шофьор за теб! Моля, изчакай секунда... {drivers_count}" unknown tag 'drivers_count' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 80
+[18-Dec-2021 14:26:51 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 80 "Търсим шофьор за теб! Моля, изчакай секунда... {drivers_count}" unknown tag 'drivers_count' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 80
+[18-Dec-2021 15:18:00 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 114 "center: {lat :22.306527, lng : 114.169976},"  - Unexpected " :", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 114
+[18-Dec-2021 15:29:18 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function getUserById() in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 27
+[18-Dec-2021 15:36:09 Europe/Sofia] PHP Parse error:  syntax error, unexpected ',' in /home/vsyakadu/almus.semicolondi.com/controller/view_order.php on line 29
+[18-Dec-2021 16:36:01 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 128 "var marker = L.marker([{/literal}{if strlen($driver.0.lat)>3}{$driver.0.lat},{$driver.0.lon}{else}43.8227528,23.2461374{/if}{literal}]).addTo(map);"  - Unexpected "{/literal}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 128
+[18-Dec-2021 16:36:01 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home2.tpl"  on line 128 "var marker = L.marker([{/literal}{if strlen($driver.0.lat)>3}{$driver.0.lat},{$driver.0.lon}{else}43.8227528,23.2461374{/if}{literal}]).addTo(map);"  - Unexpected "{/literal}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 128
+[18-Dec-2021 16:36:52 Europe/Sofia] PHP Fatal error:  Uncaught Exception: Unexpected input at line182: 
+ in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatelexer.php:898
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatelexer.php(255): Smarty_Internal_Templatelexer->yylex4()
+#1 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_smartytemplatecompiler.php(113): Smarty_Internal_Templatelexer->yylex()
+#2 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php(423): Smarty_Internal_SmartyTemplateCompiler->doCompile('\r\n<!DOCTYPE htm...', true)
+#3 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php(349): Smarty_Internal_TemplateCompilerBase->compileTemplateSource(Object(Smarty_Internal_Template), false, NULL)
+#4 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_template_compiled.php(184): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#5 /home/vsyak in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatelexer.php on line 898
+[18-Dec-2021 18:01:14 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 147 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 147
+[18-Dec-2021 18:01:15 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 147 "L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 147
+[18-Dec-2021 18:13:44 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/view_order.tpl"  on line 212 "L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {" unknown tag 's' <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 212
+[14-Jan-2022 11:45:43 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home3.tpl"  on line 213 "{elementType: 'geometry', stylers: [{color: '#242f3e'}]},"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 213
+[14-Jan-2022 11:46:01 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/home3.tpl"  on line 213 "{elementType: 'geometry', stylers: [{color: '#242f3e'}]},"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 213
+[14-Jan-2022 11:47:32 Europe/Sofia] PHP Fatal error:  Uncaught Exception: Unexpected input at line450: 
+ in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatelexer.php:898
+Stack trace:
+#0 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatelexer.php(255): Smarty_Internal_Templatelexer->yylex4()
+#1 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_smartytemplatecompiler.php(113): Smarty_Internal_Templatelexer->yylex()
+#2 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php(423): Smarty_Internal_SmartyTemplateCompiler->doCompile('<!DOCTYPE html>...', true)
+#3 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php(349): Smarty_Internal_TemplateCompilerBase->compileTemplateSource(Object(Smarty_Internal_Template), false, NULL)
+#4 /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_template_compiled.php(184): Smarty_Internal_TemplateCompilerBase->compileTemplate(Object(Smarty_Internal_Template))
+#5 /home/vsyakad in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatelexer.php on line 898
+[18-Jan-2022 16:12:59 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/favorite_places.tpl"  on line 206 "{elementType: 'geometry', stylers: [{color: '#242f3e'}]},"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 206
+[18-Jan-2022 16:13:00 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/favorite_places.tpl"  on line 206 "{elementType: 'geometry', stylers: [{color: '#242f3e'}]},"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 206
+[18-Jan-2022 20:41:03 Europe/Sofia] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/vsyakadu/almus.semicolondi.com/view/favorite_places.tpl"  on line 96 "<p style="padding:10px;margin:10px;border:#a3a3a3;border-style: solid;border-radius:10px;text-align:left">{$f.streettruncate:10:""} <a href="./favorite_places.php?delete={$f.fav_place_id}" stle="text-decoration:none"><img src="../images/delete.png" width="25px" align="right" height="25px"></a></p>"  - Unexpected ":", expected one of: "}" <-- 
+  thrown in /home/vsyakadu/almus.semicolondi.com/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 96
