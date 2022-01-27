@@ -9,3 +9,4 @@ desktop.ini
 _linux/
 inspection/
 /nbproject/private/
+./model/Host.php
